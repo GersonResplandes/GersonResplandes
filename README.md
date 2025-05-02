@@ -272,3 +272,190 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </div>
+
+## 📁 𝐏𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐑𝐞𝐚𝐢𝐬
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">API de Gestão de Tarefas</h3>
+        <p align="center">
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Código-33A1FF?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-5E5E5E?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </p>
+        <p align="justify">
+          API RESTful desenvolvida com Node.js, Express e MongoDB para gestão de tarefas e projetos. Implementa autenticação JWT, validação de dados e documentação com Swagger.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Sistema de Biblioteca</h3>
+        <p align="center">
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Código-33A1FF?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-5E5E5E?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </p>
+        <p align="justify">
+          Sistema completo de gerenciamento de biblioteca com backend em Node.js e MySQL. Inclui funcionalidades de empréstimo, reserva e catálogo digital de livros.
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-commerce Backend</h3>
+        <p align="center">
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Código-33A1FF?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+        </p>
+        <p align="justify">
+          Backend completo para e-commerce com TypeScript, Express e Sequelize. Inclui gestão de produtos, carrinho de compras, pedidos e integração com gateway de pagamento.
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">API de Clima</h3>
+        <p align="center">
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Código-33A1FF?style=for-the-badge&logo=github&logoColor=white">
+          </a>
+          <a href="https://github.com/GersonResplandes" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-5E5E5E?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+        </p>
+        <p align="justify">
+          API que integra dados de serviços meteorológicos, armazena histórico e fornece previsões. Desenvolvida com Node.js e MongoDB.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 💼 𝐄𝐱𝐩𝐞𝐫𝐢ê𝐧𝐜𝐢𝐚 𝐏𝐫𝐨𝐟𝐢𝐬𝐬𝐢𝐨𝐧𝐚𝐥
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="70" src="https://img.icons8.com/color/144/000000/code.png" alt="Dev Icon">
+        <br>
+        <b>Desenvolvedor Backend Jr</b>
+        <br>
+        <small>Estágio TechSolutions</small>
+        <br>
+        <small>Jul 2023 - Atual</small>
+        <p align="left">
+          • Desenvolvimento de APIs RESTful com Node.js e Express<br>
+          • Modelagem de bancos de dados relacionais com MySQL<br>
+          • Implementação de testes automatizados com Jest<br>
+          • Manutenção e documentação de sistemas existentes
+        </p>
+      </td>
+      <td align="center">
+        <img width="70" src="https://img.icons8.com/color/144/000000/project-management.png" alt="Project Icon">
+        <br>
+        <b>Projeto Acadêmico</b>
+        <br>
+        <small>Sistema de Gestão Escolar</small>
+        <br>
+        <small>Mar 2023 - Jun 2023</small>
+        <p align="left">
+          • Liderança no desenvolvimento do backend<br>
+          • Criação de API para gerenciamento de alunos e turmas<br>
+          • Implementação de autenticação e autorização<br>
+          • Integração com frontend React
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🏆 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚çõ𝐞𝐬
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/color/144/000000/certificate.png" alt="Certificate">
+        <br>
+        <b>APIs RESTful com Node.js</b>
+        <br>
+        <small>Udemy</small>
+        <br>
+        <small>2023</small>
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/color/144/000000/certificate.png" alt="Certificate">
+        <br>
+        <b>Banco de Dados SQL Avançado</b>
+        <br>
+        <small>Digital Innovation One</small>
+        <br>
+        <small>2023</small>
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/color/144/000000/certificate.png" alt="Certificate">
+        <br>
+        <b>JavaScript ES6+</b>
+        <br>
+        <small>Alura</small>
+        <br>
+        <small>2022</small>
+      </td>
+      <td align="center">
+        <img width="60" src="https://img.icons8.com/color/144/000000/certificate.png" alt="Certificate">
+        <br>
+        <b>Git e GitHub</b>
+        <br>
+        <small>Curso em Vídeo</small>
+        <br>
+        <small>2022</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🤝 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐢çõ𝐞𝐬 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GersonResplandes&repo=GersonResplandes&bg_color=0,000000,130F40&icon_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&border_color=0c1a25" width="400px" alt="Contribuição 1">
+        <p align="center">
+          <b>Correção de bugs na documentação do projeto</b><br>
+          <small>3 pull requests aceitos</small>
+        </p>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GersonResplandes&repo=GersonResplandes&bg_color=0,000000,130F40&icon_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&border_color=0c1a25" width="400px" alt="Contribuição 2">
+        <p align="center">
+          <b>Adição de novos recursos de autenticação</b><br>
+          <small>2 pull requests aceitos</small>
+        </p>
+      </td>
+    </tr>
+  </table>
+  
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GersonResplandes&theme=github_dark" alt="Contribuições GitHub">
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+</div>
