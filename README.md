@@ -48,22 +48,22 @@
 ### 🏆 **PROGRAMAÇÃO COMPETITIVA E ALGORITMOS**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures"/>
+  <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Algorithms"/>
   
   <br>
   
-  <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Algorithms"/>
   <img src="https://img.shields.io/badge/Competitive_Programming-FFD93D?style=for-the-badge&logo=code&logoColor=black" alt="Competitive Programming"/>
   <img src="https://img.shields.io/badge/Problem_Solving-FF6B9D?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving"/>
   <img src="https://img.shields.io/badge/Code_Optimization-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Code Optimization"/>
+  <img src="https://img.shields.io/badge/OBI-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="OBI"/>
 </div>
 
 <div align="justify">
   <p>
-    <b>Competidor ativo de programação competitiva</b> com foco em desenvolvimento de algoritmos eficientes e otimização de código. Participo regularmente de competições onde aplico conhecimentos em:
+    <b>Competidor ativo de programação competitiva</b> com foco em desenvolvimento de algoritmos eficientes e otimização de código. Utilizo principalmente <b>Python</b> e <b>JavaScript</b> nas competições, com destaque para Python. Participo regularmente de competições como a <b>OBI (Olimpíada Brasileira de Informática)</b> onde aplico conhecimentos em:
   </p>
   
   <ul>
@@ -72,6 +72,10 @@
     <li><b>Matemática Computacional:</b> Teoria dos Números, Combinatória, Geometria</li>
     <li><b>Otimização:</b> Complexidade de tempo e espaço, Técnicas de otimização</li>
   </ul>
+  
+  <p>
+    <b>Repositório de Soluções OBI:</b> <a href="https://github.com/GersonResplandes/obi-nivel2-solucoes.git" target="_blank">OBI Nível 2 - Soluções</a>
+  </p>
 </div>
 
 ---
@@ -284,6 +288,29 @@
 ---
 
 ## 💻 **PROJETOS DESTACADOS**
+
+### 🏆 **PROGRAMAÇÃO COMPETITIVA**
+
+<div align="center">
+  <a href="https://github.com/GersonResplandes/obi-nivel2-solucoes.git" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GersonResplandes&repo=obi-nivel2-solucoes&bg_color=0,000000,130F40&icon_color=00FFFF&title_color=00FFFF&text_color=FFFFFF&border_color=0c1a25" width="400px" alt="OBI Soluções">
+  </a>
+</div>
+
+<div align="justify">
+  <p>
+    <b>Repositório dedicado às soluções da OBI (Olimpíada Brasileira de Informática) - Nível 2.</b> Contém implementações em Python e JavaScript de problemas de programação competitiva, demonstrando habilidades em:
+  </p>
+  
+  <ul>
+    <li><b>Resolução de Problemas:</b> Soluções para questões da OBI Nível 2</li>
+    <li><b>Implementação em Python:</b> Linguagem principal para competições</li>
+    <li><b>Otimização de Código:</b> Foco em eficiência e performance</li>
+    <li><b>Estruturas de Dados:</b> Aplicação prática de conceitos teóricos</li>
+  </ul>
+</div>
+
+---
 
 <div align="center">
   <table>
