@@ -357,17 +357,14 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🌤️ API de Clima</h3>
+        <h3 align="center">🏥 Sistema Médico</h3>
         <p align="center">
-          <a href="https://github.com/GersonResplandes" target="_blank">
+          <a href="https://github.com/GersonResplandes/sistema-medico" target="_blank">
             <img src="https://img.shields.io/badge/Código-33A1FF?style=for-the-badge&logo=github&logoColor=white">
-          </a>
-          <a href="https://github.com/GersonResplandes" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-5E5E5E?style=for-the-badge&logo=vercel&logoColor=white">
           </a>
         </p>
         <p align="justify">
-          API que integra dados de serviços meteorológicos, armazena histórico e fornece previsões. Desenvolvida com Node.js e MongoDB.
+          Sistema de gestão médica completo, com cadastro de pacientes, médicos, agendamento de consultas e interface moderna. Desenvolvido com PHP, MySQL e Bootstrap.
         </p>
       </td>
     </tr>
