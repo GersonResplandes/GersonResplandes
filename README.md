@@ -373,13 +373,22 @@
 
 ---
 
-## 🛠️ **EXPERIÊNCIA E FOCO**
+## 🛠️ EXPERIÊNCIA E FOCO
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae57db31a97bad4b36e0fb5a8e60f3b98df6dd66bb79595120/68747470733a2f2f692e696d6775722e636f6d2f5272633955734e2e706e67" alt="Arquitetura Backend" width="800px">
-  <br>
-  <figcaption><i>Modelo de arquitetura Backend que estudo e implemento em meus projetos</i></figcaption>
-</div>
+### Principais Experiências:
+
+- Desenvolvimento de APIs RESTful com Node.js, Express e PHP
+- Modelagem de bancos de dados relacionais (MySQL) e NoSQL (MongoDB)
+- Implementação de autenticação JWT e controle de acesso
+- Testes automatizados com Jest
+- Práticas de Clean Code e SOLID
+- Deploy em ambientes Linux e integração com Docker
+
+### Foco Profissional:
+
+- Arquitetura escalável e segura
+- Performance e otimização de queries
+- Documentação e manutenção de sistemas
 
 ---
 
