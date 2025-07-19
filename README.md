@@ -1,7 +1,7 @@
 # 🚀 GÉRSON RESPLANDES DE SÁ SOUSA
 
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GÉRSON;Sou+Desenvolvedor+Backend;Estudante+de+Tecnologia;Apaixonado+por+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GÉRSON;Sou+Desenvolvedor+Backend;Desenvolvedor+de+Algoritmos;Competidor+de+Programação;Apaixonado+por+Inovação" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,11 +25,15 @@
 
 <div align="justify">
   <p>
-    <b>Estudante de Informática e Desenvolvedor Backend</b> apaixonado por tecnologia e inovação. Atualmente cursando o último ano do Ensino Médio com formação técnica em Informática no <b>Instituto Federal Campus São Raimundo das Mangabeiras</b>.
+    <b>Estudante de Informática, Desenvolvedor Backend e Competidor de Programação</b> apaixonado por tecnologia, algoritmos e inovação. Atualmente cursando o último ano do Ensino Médio com formação técnica em Informática no <b>Instituto Federal Campus São Raimundo das Mangabeiras</b>.
   </p>
   
   <p>
-    Tenho experiência com projetos pessoais e profissionais, focando principalmente em tecnologias de backend. Meu objetivo é construir uma carreira sólida como desenvolvedor backend, acumular patrimônio e, no futuro, fundar minha própria empresa de tecnologia.
+    Tenho experiência com projetos pessoais e profissionais, focando principalmente em tecnologias de backend. Além disso, sou desenvolvedor de algoritmos e participo ativamente de competições de programação competitiva, onde aplico conhecimentos avançados em estruturas de dados, algoritmos e otimização de código.
+  </p>
+  
+  <p>
+    Meu objetivo é construir uma carreira sólida como desenvolvedor backend, acumular patrimônio e, no futuro, fundar minha própria empresa de tecnologia.
   </p>
   
   <div align="center">
@@ -40,6 +44,37 @@
 ---
 
 ## 🛠️ **TECNOLOGIAS E FERRAMENTAS**
+
+### 🏆 **PROGRAMAÇÃO COMPETITIVA E ALGORITMOS**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Data Structures"/>
+  
+  <br>
+  
+  <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/Competitive_Programming-FFD93D?style=for-the-badge&logo=code&logoColor=black" alt="Competitive Programming"/>
+  <img src="https://img.shields.io/badge/Problem_Solving-FF6B9D?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Code_Optimization-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Code Optimization"/>
+</div>
+
+<div align="justify">
+  <p>
+    <b>Competidor ativo de programação competitiva</b> com foco em desenvolvimento de algoritmos eficientes e otimização de código. Participo regularmente de competições onde aplico conhecimentos em:
+  </p>
+  
+  <ul>
+    <li><b>Estruturas de Dados:</b> Arrays, Listas, Pilhas, Filas, Árvores, Grafos, Heaps</li>
+    <li><b>Algoritmos:</b> Busca, Ordenação, Programação Dinâmica, Algoritmos Gulosos</li>
+    <li><b>Matemática Computacional:</b> Teoria dos Números, Combinatória, Geometria</li>
+    <li><b>Otimização:</b> Complexidade de tempo e espaço, Técnicas de otimização</li>
+  </ul>
+</div>
+
+---
 
 <div align="center">
   <h3>⭐ Tecnologias que Domino ⭐</h3>
@@ -162,7 +197,54 @@
 
 ---
 
-## 🏆 **CERTIFICAÇÕES**
+## 🏆 **CERTIFICAÇÕES E CONQUISTAS**
+
+### 🏅 **COMPETIÇÕES DE PROGRAMAÇÃO**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="70" src="https://img.shields.io/badge/Competitive_Programming-FFD93D?style=for-the-badge&logo=code&logoColor=black" alt="Competitive Programming">
+        <br>
+        <b>Participação Ativa</b>
+        <br>
+        <small>Competições Online</small>
+        <br>
+        <small>2022 - Atual</small>
+      </td>
+      <td align="center">
+        <img width="70" src="https://img.shields.io/badge/Algorithm_Development-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Algorithm Development">
+        <br>
+        <b>Desenvolvimento de Algoritmos</b>
+        <br>
+        <small>Estruturas de Dados</small>
+        <br>
+        <small>Otimização de Código</small>
+      </td>
+      <td align="center">
+        <img width="70" src="https://img.shields.io/badge/Problem_Solving-FF6B9D?style=for-the-badge&logo=code&logoColor=white" alt="Problem Solving">
+        <br>
+        <b>Resolução de Problemas</b>
+        <br>
+        <small>Lógica Computacional</small>
+        <br>
+        <small>Matemática Aplicada</small>
+      </td>
+      <td align="center">
+        <img width="70" src="https://img.shields.io/badge/Code_Optimization-6C5CE7?style=for-the-badge&logo=code&logoColor=white" alt="Code Optimization">
+        <br>
+        <b>Otimização de Código</b>
+        <br>
+        <small>Complexidade Algorítmica</small>
+        <br>
+        <small>Performance</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📜 **CERTIFICAÇÕES**
 
 <div align="center">
   <table>
