@@ -1,10 +1,7 @@
-<div align="center">
-  <img src="https://i.imgur.com/3TTINmm.gif" width="100%"/>
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=G%C3%A9rson+Resplandes+de+S%C3%A1+Sousa;Desenvolvedor+Web+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Gerson+Resplandes+de+Sa+Sousa;Desenvolvedor+Web+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
   </a>
 </div>
 
