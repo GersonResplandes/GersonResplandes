@@ -1,0 +1,33 @@
+name: 📊 Update Profile Statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 🚀 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 📈 Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔄 Update README
+        run: |
+          echo "✅ Profile statistics updated successfully!"
+          echo "📅 Last updated: $(date)"
+
+      - name: 📤 Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "📊 Update profile statistics [skip ci]"
+          git push

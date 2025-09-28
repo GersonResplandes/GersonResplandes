@@ -1,0 +1,64 @@
+# 🚀 Configuração do Perfil GitHub - Gerson Resplandes
+# Este arquivo contém configurações para automatizar e otimizar o perfil
+
+profile:
+  name: "Gerson Resplandes de Sá Sousa"
+  title: "Desenvolvedor Web & Automação"
+  location: "Brasil"
+  bio: "Desenvolvedor apaixonado por criar soluções web que transformam ideias em realidade"
+
+  # Links de contato
+  social:
+    email: "gerson.resplandes@gmail.com"
+    linkedin: "https://linkedin.com/in/gerson-resplandes"
+    github: "https://github.com/GersonResplandes"
+
+  # Tecnologias principais
+  tech_stack:
+    frontend:
+      - "React"
+      - "Next.js"
+      - "TypeScript"
+      - "Tailwind CSS"
+      - "Vite"
+    backend:
+      - "Node.js"
+      - "Python"
+      - "Express.js"
+      - "FastAPI"
+    database:
+      - "MongoDB"
+      - "PostgreSQL"
+      - "Redis"
+    cloud:
+      - "AWS"
+      - "Docker"
+
+  # Objetivos profissionais
+  goals:
+    short_term:
+      - "Dominar React 18 e Next.js 14"
+      - "Implementar testes automatizados"
+      - "Contribuir para projetos open-source"
+    medium_term:
+      - "Especializar em arquitetura de microserviços"
+      - "Aprender Kubernetes e DevOps"
+      - "Desenvolver soluções de IA/ML"
+    long_term:
+      - "Liderar equipes de desenvolvimento"
+      - "Criar startup de tecnologia"
+      - "Impactar a comunidade tech"
+
+# Configurações de automação
+automation:
+  snake_animation:
+    enabled: true
+    update_frequency: "6 hours"
+
+  stats_update:
+    enabled: true
+    update_frequency: "daily"
+
+  profile_refresh:
+    enabled: true
+    update_frequency: "daily"

@@ -1,0 +1,41 @@
+name: 🚀 Auto-Update Profile
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # Atualiza diariamente às 2h da manhã
+  workflow_dispatch:
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 🚀 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 📊 Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: output/github-contribution-grid-snake.svg
+
+      - name: 📁 Ensure output directory exists
+        run: mkdir -p output
+
+      - name: 📝 Update README timestamp
+        run: |
+          echo "<!-- Last updated: $(date) -->" >> README.md
+
+      - name: 📤 Commit and Push Updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --staged --quiet || git commit -m "🚀 Auto-update profile [skip ci]"
+          git push
