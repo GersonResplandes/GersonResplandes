@@ -11,20 +11,21 @@
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:SEU_EMAIL" target="_blank">
+  <a href="mailto:sagerson@acad.ifma.edu.br" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
 <hr>
 
-### 🚀 Projeto em Destaque (Portfolio)
+### 🚀 Projetos em Destaque (Portfolio)
 
-Este é o projeto que melhor define minhas habilidades atuais em engenharia de software:
+Meus projetos focam em resolver problemas complexos de engenharia de software, variando entre consistência financeira e alta performance assíncrona:
 
-| Projeto | Tech Stack | Descrição |
+| Projeto | Foco & Stack | Descrição |
 | :--- | :--- | :--- |
-| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Node.js, Fastify, Prisma** | API financeira à prova de falhas com garantia **ACID**, prevenção de Race Conditions e Pessimistic Locking. |
+| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência (ACID)**<br>Node.js, Fastify, Prisma | API financeira à prova de falhas, prevenindo Race Conditions e Double Spending com **Pessimistic Locking**. |
+| ⚡ [**Async Worker & Queues**](https://github.com/GersonResplandes/async-worker-redis) | **Escalabilidade**<br>Node.js, Redis, BullMQ | Microserviço de processamento em background para alta concorrência. Inclui **Dashboard** de monitoramento e Retry Strategy. |
 
 <br>
 
@@ -45,7 +46,7 @@ Para manter a organização e o foco, dividi meus repositórios em organizaçõe
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastify,nestjs,express,prisma,mysql,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastify,nestjs,express,prisma,mysql,redis,docker,git&theme=dark" />
 </div>
 
 <br>
