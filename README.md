@@ -1,11 +1,13 @@
 <div align="center">
   <h1>Olá, sou o Gerson Resplandes! 👋</h1>
-  <h3>Backend Developer | Node.js & TypeScript Specialist</h3>
+  <h3>Software Engineer (Backend) | Distributed Systems & Scalability</h3>
   
   <p>
-    Focado em Arquitetura de Software, Sistemas Distribuídos e Engenharia de Dados.
+    Especialista em Node.js & TypeScript.
     <br>
-    Ex-competidor de programação (OBI) e entusiasta de soluções escaláveis.
+    Focado em Arquitetura de Software, Integridade de Dados e Alta Performance.
+    <br>
+    Ex-competidor de programação (OBI).
   </p>
 
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
@@ -15,7 +17,6 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
 <hr>
 
 ### 🚀 A Tríade do Backend (Portfolio)
