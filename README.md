@@ -1,4 +1,56 @@
 <div align="center">
+  <h1>Olá, sou o Gerson Resplandes! 👋</h1>
+  <h3>Backend Developer | Node.js & TypeScript Specialist</h3>
+  
+  <p>
+    Focado em Arquitetura de Software, Escalabilidade e Integridade de Dados.
+    <br>
+    Ex-competidor de programação (OBI) e entusiasta de sistemas distribuídos.
+  </p>
+
+  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="mailto:SEU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</div>
+
+<hr>
+
+### 🚀 Projeto em Destaque (Portfolio)
+
+Este é o projeto que melhor define minhas habilidades atuais em engenharia de software:
+
+| Projeto | Tech Stack | Descrição |
+| :--- | :--- | :--- |
+| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Node.js, Fastify, Prisma** | API financeira à prova de falhas com garantia **ACID**, prevenção de Race Conditions e Pessimistic Locking. |
+
+<br>
+
+### 🗺️ Meu Ecossistema no GitHub
+
+Para manter a organização e o foco, dividi meus repositórios em organizações específicas. Navegue por elas para ver meu trabalho completo:
+
+| Organização | O que você vai encontrar? |
+| :--- | :--- |
+| 📚 [**@Me-Aprendizado-Estudos**](https://github.com/Me-Aprendizado-Estudos) | **Meus Estudos:** Cursos, tutoriais e soluções de **Programação Competitiva (OBI)**. |
+| 🧪 [**@Laboratorio-Dia-a-Dia**](https://github.com/Laboratorio-Dia-a-Dia) | **Meu Sandbox:** Scripts de automação, POCs (Provas de Conceito) e testes rápidos. |
+| 📂 [**@Me-Documentação**](https://github.com/Me-Documentacao) | **Minha Carreira:** Certificados, currículos, planos de evolução e anotações teóricas. |
+
+<br>
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python&theme=dark" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=fastify,nestjs,express,prisma,mysql,docker,git&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
   <h2 style="color: #00D4FF; font-size: 2.5em; margin: 30px 0; text-shadow: 0 0 20px #00D4FF;">📊 ESTATÍSTICAS GITHUB</h2>
 </div>
 
