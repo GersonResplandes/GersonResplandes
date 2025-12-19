@@ -3,41 +3,42 @@
   <h3>Backend Developer | Node.js & TypeScript Specialist</h3>
   
   <p>
-    Focado em Arquitetura de Software, Escalabilidade e Integridade de Dados.
+    Focado em Arquitetura de Software, Sistemas Distribuídos e Engenharia de Dados.
     <br>
-    Ex-competidor de programação (OBI) e entusiasta de sistemas distribuídos.
+    Ex-competidor de programação (OBI) e entusiasta de soluções escaláveis.
   </p>
 
   <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:sagerson@acad.ifma.edu.br" target="_blank">
+  <a href="mailto:SEU_EMAIL" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
 <hr>
 
-### 🚀 Projetos em Destaque (Portfolio)
+### 🚀 A Tríade do Backend (Portfolio)
 
-Meus projetos focam em resolver problemas complexos de engenharia de software, variando entre consistência financeira e alta performance assíncrona:
+Meus projetos principais demonstram domínio sobre os três pilares da engenharia de backend moderna: **Consistência (ACID)**, **Processamento Assíncrono** e **Comunicação em Tempo Real**.
 
-| Projeto | Foco & Stack | Descrição |
+| Projeto | Foco de Engenharia | Stack Principal |
 | :--- | :--- | :--- |
-| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência (ACID)**<br>Node.js, Fastify, Prisma | API financeira à prova de falhas, prevenindo Race Conditions e Double Spending com **Pessimistic Locking**. |
-| ⚡ [**Async Worker & Queues**](https://github.com/GersonResplandes/async-worker-redis) | **Escalabilidade**<br>Node.js, Redis, BullMQ | Microserviço de processamento em background para alta concorrência. Inclui **Dashboard** de monitoramento e Retry Strategy. |
+| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência & Segurança** | **Node.js, SQL, Prisma**<br>Garantia ACID, prevenção de Race Conditions e Pessimistic Locking. |
+| ⚡ [**Async Worker**](https://github.com/GersonResplandes/async-worker-redis) | **Performance & Escala** | **Node.js, Redis, BullMQ**<br>Processamento em background (Filas), Retry Strategy e Dashboard de monitoramento. |
+| 💬 [**Real-Time Chat**](https://github.com/GersonResplandes/realtime-chat-engine) | **Tempo Real & State** | **Socket.io, MongoDB, Redis**<br>Arquitetura Pub/Sub para escalar WebSockets horizontalmente com persistência de dados. |
 
 <br>
 
 ### 🗺️ Meu Ecossistema no GitHub
 
-Para manter a organização e o foco, dividi meus repositórios em organizações específicas. Navegue por elas para ver meu trabalho completo:
+Para manter a organização e o foco técnico, dividi meus repositórios em organizações específicas:
 
 | Organização | O que você vai encontrar? |
 | :--- | :--- |
-| 📚 [**@Me-Aprendizado-Estudos**](https://github.com/Me-Aprendizado-Estudos) | **Meus Estudos:** Cursos, tutoriais e soluções de **Programação Competitiva (OBI)**. |
-| 🧪 [**@Laboratorio-Dia-a-Dia**](https://github.com/Laboratorio-Dia-a-Dia) | **Meu Sandbox:** Scripts de automação, POCs (Provas de Conceito) e testes rápidos. |
-| 📂 [**@Me-Documentação**](https://github.com/Me-Documentacao) | **Minha Carreira:** Certificados, currículos, planos de evolução e anotações teóricas. |
+| 📚 [**@Me-Aprendizado-Estudos**](https://github.com/Me-Aprendizado-Estudos) | **Laboratório de Estudos:** Cursos, tutoriais e soluções de **Programação Competitiva (OBI)**. |
+| 🧪 [**@Laboratorio-Dia-a-Dia**](https://github.com/Laboratorio-Dia-a-Dia) | **Sandbox:** Scripts de automação, POCs (Provas de Conceito) e testes rápidos de novas tecnologias. |
+| 📂 [**@Me-Documentação**](https://github.com/Me-Documentacao) | **Gestão de Carreira:** Certificados, currículos, planos de evolução (PDI) e anotações teóricas. |
 
 <br>
 
@@ -46,7 +47,7 @@ Para manter a organização e o foco, dividi meus repositórios em organizaçõe
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastify,nestjs,express,prisma,mysql,redis,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastify,nestjs,express,prisma,mysql,mongodb,redis,docker,git&theme=dark" />
 </div>
 
 <br>
