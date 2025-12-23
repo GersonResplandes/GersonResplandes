@@ -31,7 +31,9 @@ Minha organização no GitHub reflete meu processo de melhoria contínua:
 
 ### 🛠 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonResplandes&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" width="100%" />
+### 🛠️ Core Stack & Ferramentas
+
+`Node.js` • `TypeScript` • `MySQL` • `MongoDB` • `Redis` • `Docker` • `NestJS` • `Fastify`
 
 ---
 
