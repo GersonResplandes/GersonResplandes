@@ -13,7 +13,7 @@ Projetos selecionados que demonstram proficiência em desafios complexos de arqu
 
 | Projeto | Desafio Técnico | Stack |
 | :--- | :--- | :--- |
-| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência de Dados:** Implementação de controle de concorrência (Pessimistic Locking) e integridade ACID em transações financeiras. | Node.js, PostgreSQL, Prisma |
+| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência de Dados:** Implementação de controle de concorrência (Pessimistic Locking) e integridade ACID em transações financeiras. | Node.js, MySQL, Prisma |
 | ⚡ [**Async Worker**](https://github.com/GersonResplandes/async-worker-redis) | **Escalabilidade Assíncrona:** Arquitetura baseada em filas para processamento massivo, com estratégias de retry e monitoramento de saúde. | BullMQ, Redis, Fastify |
 | 💬 [**Real-Time Engine**](https://github.com/GersonResplandes/realtime-chat-engine) | **Sistemas Distribuídos:** Escalonamento horizontal de WebSockets via Pub/Sub, garantindo entrega de mensagens em milissegundos. | Socket.io, Redis, MongoDB |
 
@@ -31,8 +31,7 @@ Minha organização no GitHub reflete meu processo de melhoria contínua:
 
 ### 🛠 Tech Stack
 
-**Languages & Core:** Node.js, TypeScript, JavaScript, Python, SQL.  
-**Frameworks & Tools:** NestJS, Fastify, Docker, Redis, Prisma, MongoDB, RabbitMQ/BullMQ.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonResplandes&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=0077B5&text_color=ffffff" width="100%" />
 
 ---
 
