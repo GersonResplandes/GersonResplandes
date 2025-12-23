@@ -1,71 +1,44 @@
-<div align="center">
-  <h1>Olá, sou o Gerson Resplandes! 👋</h1>
-  <h3>Software Engineer (Backend) | Distributed Systems & Scalability</h3>
-  
-  <p>
-    Especialista em Node.js & TypeScript.
-    <br>
-    Focado em Arquitetura de Software, Integridade de Dados e Alta Performance.
-    <br>
-    Ex-competidor de programação (OBI).
-  </p>
+# Gerson Resplandes
+**Software Engineer | Distributed Systems & Backend Specialist**
 
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-<hr>
+Especialista em ecossistema Node.js e TypeScript, focado na construção de sistemas escaláveis, resilientes e de alta performance. Ex-competidor de programação (OBI) com forte base em algoritmos e estruturas de dados.
 
-### 🚀 A Tríade do Backend (Portfolio)
+[LinkedIn](LINK_DO_SEU_LINKEDIN) • [E-mail](mailto:SEU_EMAIL) • [Currículo/Portfolio](LINK_OPCIONAL)
 
-Meus projetos principais demonstram domínio sobre os três pilares da engenharia de backend moderna: **Consistência (ACID)**, **Processamento Assíncrono** e **Comunicação em Tempo Real**.
+---
 
-| Projeto | Foco de Engenharia | Stack Principal |
+### 🏗️ Projetos em Destaque (Engenharia de Backend)
+
+Projetos selecionados que demonstram proficiência em desafios complexos de arquitetura:
+
+| Projeto | Desafio Técnico | Stack |
 | :--- | :--- | :--- |
-| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência & Segurança** | **Node.js, SQL, Prisma**<br>Garantia ACID, prevenção de Race Conditions e Pessimistic Locking. |
-| ⚡ [**Async Worker**](https://github.com/GersonResplandes/async-worker-redis) | **Performance & Escala** | **Node.js, Redis, BullMQ**<br>Processamento em background (Filas), Retry Strategy e Dashboard de monitoramento. |
-| 💬 [**Real-Time Chat**](https://github.com/GersonResplandes/realtime-chat-engine) | **Tempo Real & State** | **Socket.io, MongoDB, Redis**<br>Arquitetura Pub/Sub para escalar WebSockets horizontalmente com persistência de dados. |
+| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência de Dados:** Implementação de controle de concorrência (Pessimistic Locking) e integridade ACID em transações financeiras. | Node.js, PostgreSQL, Prisma |
+| ⚡ [**Async Worker**](https://github.com/GersonResplandes/async-worker-redis) | **Escalabilidade Assíncrona:** Arquitetura baseada em filas para processamento massivo, com estratégias de retry e monitoramento de saúde. | BullMQ, Redis, Fastify |
+| 💬 [**Real-Time Engine**](https://github.com/GersonResplandes/realtime-chat-engine) | **Sistemas Distribuídos:** Escalonamento horizontal de WebSockets via Pub/Sub, garantindo entrega de mensagens em milissegundos. | Socket.io, Redis, MongoDB |
 
-<br>
+---
 
-### 🗺️ Meu Ecossistema no GitHub
+### 🧪 Ecossistema de Desenvolvimento
 
-Para manter a organização e o foco técnico, dividi meus repositórios em organizações específicas:
+Minha organização no GitHub reflete meu processo de melhoria contínua:
 
-| Organização | O que você vai encontrar? |
-| :--- | :--- |
-| 📚 [**@Me-Aprendizado-Estudos**](https://github.com/Me-Aprendizado-Estudos) | **Laboratório de Estudos:** Cursos, tutoriais e soluções de **Programação Competitiva (OBI)**. |
-| 🧪 [**@Laboratorio-Dia-a-Dia**](https://github.com/Laboratorio-Dia-a-Dia) | **Sandbox:** Scripts de automação, POCs (Provas de Conceito) e testes rápidos de novas tecnologias. |
-| 📂 [**@Me-Documentação**](https://github.com/Me-Documentacao) | **Gestão de Carreira:** Certificados, currículos, planos de evolução (PDI) e anotações teóricas. |
+* **[Aprendizado & Estudos](https://github.com/Me-Aprendizado-Estudos):** Resolução de problemas de programação competitiva e laboratórios de algoritmos.
+* **[Laboratório de POCs](https://github.com/Laboratorio-Dia-a-Dia):** Provas de conceito de novas ferramentas e automações do cotidiano.
+* **[Documentação Técnica](https://github.com/Me-Documentacao):** Gestão de conhecimento, PDI e notas sobre engenharia de software.
 
-<br>
+---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python&theme=dark" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=fastify,nestjs,express,prisma,mysql,mongodb,redis,docker,git&theme=dark" />
-</div>
+**Languages & Core:** Node.js, TypeScript, JavaScript, Python, SQL.  
+**Frameworks & Tools:** NestJS, Fastify, Docker, Redis, Prisma, MongoDB, RabbitMQ/BullMQ.
 
-<br>
+---
 
-<div align="center">
-  <h2 style="color: #00D4FF; font-size: 2.5em; margin: 30px 0; text-shadow: 0 0 20px #00D4FF;">📊 ESTATÍSTICAS GITHUB</h2>
-</div>
+### 📊 Atividade & Impacto
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GersonResplandes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20Minhas%20Estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonResplandes&layout=compact&theme=tokyonight&hide_border=true&custom_title=💻%20Linguagens%20Mais%20Usadas" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GersonResplandes&theme=tokyonight&hide_border=true&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GersonResplandes&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true&custom_title=📈%20Atividade%20no%20GitHub" alt="GitHub Activity Graph" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=GersonResplandes&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonResplandes&layout=compact&theme=transparent&hide_border=true&title_color=0077B5" height="150" />
 </div>
