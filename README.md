@@ -11,12 +11,6 @@ Especialista em ecossistema Node.js e TypeScript, focado na construção de sist
 
 Projetos selecionados que demonstram proficiência em desafios complexos de arquitetura:
 
-| Projeto | Desafio Técnico | Stack |
-| :--- | :--- | :--- |
-| 🏦 [**Ledger Bancário**](https://github.com/GersonResplandes/ledger-bancario) | **Consistência de Dados:** Implementação de controle de concorrência (Pessimistic Locking) e integridade ACID em transações financeiras. | Node.js, MySQL, Prisma |
-| ⚡ [**Async Worker**](https://github.com/GersonResplandes/async-worker-redis) | **Escalabilidade Assíncrona:** Arquitetura baseada em filas para processamento massivo, com estratégias de retry e monitoramento de saúde. | BullMQ, Redis, Fastify |
-| 💬 [**Real-Time Engine**](https://github.com/GersonResplandes/realtime-chat-engine) | **Sistemas Distribuídos:** Escalonamento horizontal de WebSockets via Pub/Sub, garantindo entrega de mensagens em milissegundos. | Socket.io, Redis, MongoDB |
-
 ---
 
 ### 🧪 Ecossistema de Desenvolvimento
