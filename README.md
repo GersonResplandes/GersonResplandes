@@ -3,53 +3,81 @@
   <h3>Senior Software Engineer | Distributed Systems & Backend Specialist</h3>
 
   <p>
-    Especialista em ecossistema <b>Node.js</b> e <b>TypeScript</b>, focado na construção de sistemas escaláveis, resilientes e de alta integridade.<br>
-    Ex-competidor de programação (OBI) com forte base em algoritmos e estruturas de dados.
+    Node.js & TypeScript Ecosystem Specialist, focused on building scalable, resilient, and high-integrity systems.<br>
+    Former Competitive Programmer (OBI) with a strong foundation in algorithms and data structures.
   </p>
 
   <p>
-    <a href="[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/gerson-maior-999bb33a3/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="mailto:maiorgerson@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="LINK_OPCIONAL"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/gerson-resplandes-de-s%C3%A1-sousa-999bb33a3/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <a href="mailto:maiorgerson@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
   </p>
 </div>
 
 ---
 
-### 🏗️ Projetos em Destaque (Flagship Projects)
+### 🏗️ Flagship Projects
 
-> *Engenharia de Backend focada em Concorrência, Segurança e Integridade de Dados.*
+> *Backend Engineering focused on Concurrency, Security, and Data Integrity.*
 
 <table>
   <tr>
     <td width="60%">
       <h3>🏦 <a href="https://github.com/GersonResplandes/ledger-core">Ledger Core (Banking Engine)</a></h3>
       <p>
-        Motor transacional financeiro de alta integridade que implementa <strong>Double-Entry Ledger</strong>.
-        Resolve problemas críticos de <strong>Race Conditions</strong> (Double Spending) e <strong>Deadlocks</strong> utilizando estratégias de <strong>Pessimistic Locking</strong> e garantias <strong>ACID</strong> em nível de banco de dados.
+        High-integrity financial transactional engine implementing a <strong>Double-Entry Ledger</strong>.
+        Solves critical challenges like <strong>Race Conditions</strong> (Double Spending) and <strong>Deadlocks</strong> using <strong>Pessimistic Locking</strong> strategies and Database-level <strong>ACID</strong> guarantees.
       </p>
       <p>
-        <strong>Tech Stack:</strong> 
+        <strong>Tech Stack:</strong>&nbsp;
         <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Prisma (Schema)</code> <code>Kysely (Query Builder)</code> <code>Docker</code>
       </p>
     </td>
   </tr>
-  <!-- Adicione mais projetos de destaque aqui seguindo o mesmo padrão -->
+  <tr>
+    <td width="60%">
+      <h3>📡 <a href="https://github.com/GersonResplandes/webhook-processor">Webhook Processor (Distributed Events)</a></h3>
+      <p>
+        Event ingestion service focused on distributed systems challenges: <strong>Idempotency</strong>, <strong>Strict Ordering</strong>, and <strong>Auditing</strong>.
+        Implements concurrency control per entity (In-memory Mutex) to ensure correct sequencing of asynchronous events.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>&nbsp;
+        <code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>Prisma</code> <code>Zod</code> <code>Singleton Pattern</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### 🧪 Ecossistema de Desenvolvimento
+### 🧩 Engineering Philosophy
 
-Minha organização no GitHub reflete meu processo de melhoria contínua:
+> *"Code is read much more often than it is written."*
 
-* **[📂 Aprendizado & Estudos](https://github.com/Me-Aprendizado-Estudos):** Resolução de problemas de programação competitiva e laboratórios de algoritmos.
-* **[🚀 Laboratório de POCs](https://github.com/Laboratorio-Dia-a-Dia):** Provas de conceito de novas ferramentas, arquiteturas experimentais e automações.
-* **[📚 Documentação Técnica](https://github.com/Me-Documentacao):** Gestão de conhecimento, PDI e notas avançadas sobre engenharia de software e System Design.
+My approach to software engineering is grounded in three pillars:
+
+* **Reliability First:** Systems must be predictable. I prioritize **strict typing**, **automated testing**, and **graceful error handling** to prevent runtime surprises.
+* **Observability:** If you can't measure it, you can't improve it. I design systems with logging, tracing, and metrics in mind from day one.
+* **Simplicity:** I strive to solve complex distributed problems with simple, maintainable architectures, avoiding accidental complexity.
 
 ---
 
-### 🛠️ Core Stack & Ferramentas
+### 🧪 Development Ecosystem
+
+My GitHub organization reflects my continuous improvement process:
+
+* **[📂 Learning & Studies](https://github.com/Me-Aprendizado-Estudos):** Competitive programming solutions and algorithm labs (Python/C++).
+* **[🚀 POC Lab](https://github.com/Laboratorio-Dia-a-Dia):** Proofs of concept for new tools, experimental architectures, and automations.
+* **[📚 Technical Documentation](https://github.com/Me-Documentacao):** Knowledge management, PDP, and advanced notes on software engineering and System Design.
+
+---
+
+### 🛠️ Core Stack & Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -64,11 +92,9 @@ Minha organização no GitHub reflete meu processo de melhoria contínua:
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
 </div>
 
----
-
-### 📊 Atividade & Impacto
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GersonResplandes&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonResplandes&layout=compact&theme=transparent&hide_border=true&title_color=0077B5&text_color=555" height="150" />
+  <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Professional_Working_Proficiency-blue?style=flat-square" />
 </div>
