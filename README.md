@@ -5,8 +5,7 @@
 </div>
 <div align="center">
   <h1>Gerson Resplandes</h1>
-  <h3>Senior Software Engineer | Distributed Systems & Backend Specialist</h3>
-
+  <h3>Software Engineer | Distributed Systems & Backend</h3>
   <p>
     Node.js & TypeScript Ecosystem Specialist, focused on building scalable, resilient, and high-integrity systems.<br>
     Former Competitive Programmer (OBI) with a strong foundation in algorithms and data structures.
