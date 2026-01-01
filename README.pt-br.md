@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Gerson Resplandes</h1>
-  <h3>Engenheiro de Software Sênior | Sistemas Distribuídos & Backend</h3>
+  <h3>Engenheiro de Software | Sistemas Distribuídos & Backend</h3>
 
   <p>
     Especialista no ecossistema Node.js e TypeScript, focado na construção de sistemas escaláveis, resilientes e de alta integridade.<br>
