@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="blob/main/README.pt-br.md">
+  <a href="/README.pt-br.md">
     <img src="https://img.shields.io/badge/Ler_em_Português-Verde?style=for-the-badge&logo=brazil&logoColor=white" alt="Ler em Português">
   </a>
 </div>
