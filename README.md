@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="blob/main/README.pt-br.md">
+    <img src="https://img.shields.io/badge/Ler_em_Português-Verde?style=for-the-badge&logo=brazil&logoColor=white" alt="Ler em Português">
+  </a>
+</div>
 <div align="center">
   <h1>Gerson Resplandes</h1>
   <h3>Senior Software Engineer | Distributed Systems & Backend Specialist</h3>
