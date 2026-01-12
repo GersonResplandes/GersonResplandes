@@ -12,12 +12,22 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/gerson-resplandes-de-s%C3%A1-sousa-999bb33a3/">
+    <a href="https://www.linkedin.com/in/gerson-resplandes">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;
     <a href="mailto:maiorgerson@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+  <p>
+    <strong>CV / Resume:</strong>&nbsp;
+    <a href="[LINK_DO_SEU_PDF_PT_BR_NA_ORG_DOCUMENTACAO](https://github.com/Me-Documentacao/resume.git)">
+      <img src="https://img.shields.io/badge/PT--BR-PDF-238636?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV PT-BR">
+    </a>
+    &nbsp;
+    <a href="[LINK_DO_SEU_PDF_EN_NA_ORG_DOCUMENTACAO](https://github.com/Me-Documentacao/resume.git)">
+      <img src="https://img.shields.io/badge/EN-PDF-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV EN">
     </a>
   </p>
 </div>
