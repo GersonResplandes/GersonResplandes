@@ -22,11 +22,11 @@
   </p>
   <p>
     <strong>CV / Resume:</strong>&nbsp;
-    <a href="[LINK_DO_SEU_PDF_PT_BR_NA_ORG_DOCUMENTACAO](https://github.com/Me-Documentacao/resume.git)">
+    <a href="https://github.com/Me-Documentacao/resume.git">
       <img src="https://img.shields.io/badge/PT--BR-PDF-238636?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV PT-BR">
     </a>
     &nbsp;
-    <a href="[LINK_DO_SEU_PDF_EN_NA_ORG_DOCUMENTACAO](https://github.com/Me-Documentacao/resume.git)">
+    <a href="https://github.com/Me-Documentacao/resume.git">
       <img src="https://img.shields.io/badge/EN-PDF-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV EN">
     </a>
   </p>
