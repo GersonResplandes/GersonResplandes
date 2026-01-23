@@ -41,27 +41,39 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>🏦 <a href="https://github.com/GersonResplandes/ledger-core">Ledger Core (Banking Engine)</a></h3>
+      <h3>🎟️ <a href="https://github.com/GersonResplandes/Live-Seat-Map-Engine">Live Seat Map Engine</a></h3>
       <p>
-        High-integrity financial transactional engine implementing a <strong>Double-Entry Ledger</strong>.
-        Solves critical challenges like <strong>Race Conditions</strong> (Double Spending) and <strong>Deadlocks</strong> using <strong>Pessimistic Locking</strong> strategies and Database-level <strong>ACID</strong> guarantees.
+        High-concurrency real-time seat reservation system. Solves the <strong>"Ticketmaster Problem"</strong> (multiple users clicking the same seat instantly) using <strong>Redis Atomic Locking</strong> and <strong>Socket.io</strong> for immediate state propagation.
       </p>
       <p>
         <strong>Tech Stack:</strong>&nbsp;
-        <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Prisma (Schema)</code> <code>Kysely (Query Builder)</code> <code>Docker</code>
+        <code>Node.js</code> <code>Socket.io</code> <code>Redis (Lua Scripts)</code> <code>TypeScript</code> <code>Concurrency Control</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="60%">
-      <h3>📡 <a href="https://github.com/GersonResplandes/webhook-processor">Webhook Processor (Distributed Events)</a></h3>
+      <h3>🏦 <a href="https://github.com/GersonResplandes/ledger-core">Ledger Core (Banking Engine)</a></h3>
       <p>
-        Event ingestion service focused on distributed systems challenges: <strong>Idempotency</strong>, <strong>Strict Ordering</strong>, and <strong>Auditing</strong>.
-        Implements concurrency control per entity (In-memory Mutex) to ensure correct sequencing of asynchronous events.
+        High-integrity financial transactional engine implementing a <strong>Double-Entry Ledger</strong>.
+        Prevents <strong>Race Conditions</strong> (Double Spending) and Deadlocks using <strong>Pessimistic Locking</strong> strategies and Database-level <strong>ACID</strong> guarantees.
       </p>
       <p>
         <strong>Tech Stack:</strong>&nbsp;
-        <code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>Prisma</code> <code>Zod</code> <code>Singleton Pattern</code>
+        <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Kysely</code> <code>Design Patterns</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%">
+      <h3>📉 <a href="https://github.com/GersonResplandes/anti-oom-processor">Anti-OOM Processor</a></h3>
+      <p>
+        Memory-efficient ETL engine capable of processing <strong>multi-gigabyte CSV files</strong> without crashing Node.js (Heap Out-Of-Memory).
+        Implements <strong>Native Streams</strong> and <strong>Backpressure</strong> mechanisms to handle massive datasets with a constant, low memory footprint.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>&nbsp;
+        <code>Node.js Streams</code> <code>Pipeline API</code> <code>Performance Tuning</code> <code>Busboy</code> <code>ETL</code>
       </p>
     </td>
   </tr>
