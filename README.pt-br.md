@@ -43,32 +43,43 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>🏦 <a href="https://github.com/GersonResplandes/ledger-core">Ledger Core (Banking Engine)</a></h3>
+      <h3>🎟️ <a href="https://github.com/GersonResplandes/Live-Seat-Map-Engine">Live Seat Map Engine</a></h3>
       <p>
-        Motor transacional financeiro de alta integridade que implementa <strong>Double-Entry Ledger</strong>.
-        Resolve problemas críticos de <strong>Race Conditions</strong> (Gasto Duplo) e <strong>Deadlocks</strong> utilizando estratégias de <strong>Pessimistic Locking</strong> e garantias <strong>ACID</strong> em nível de banco de dados.
+        Sistema de reserva de assentos em tempo real com alta concorrência. Resolve o problema de "colisão de reservas" (vários usuários clicando no mesmo assento) utilizando <strong>Redis Atomic Locking</strong> e <strong>Socket.io</strong> para propagação imediata de estado.
       </p>
       <p>
         <strong>Tech Stack:</strong>&nbsp;
-        <code>TypeScript</code> <code>Fastify</code> <code>PostgreSQL</code> <code>Prisma (Schema)</code> <code>Kysely (Query Builder)</code> <code>Docker</code>
+        <code>Node.js</code> <code>Socket.io</code> <code>Redis (Lua Scripts)</code> <code>TypeScript</code> <code>Controle de Concorrência</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="60%">
-      <h3>📡 <a href="https://github.com/GersonResplandes/webhook-processor">Webhook Processor (Distributed Events)</a></h3>
+      <h3>🏦 <a href="https://github.com/GersonResplandes/ledger-core">Ledger Core (Banking Engine)</a></h3>
       <p>
-        Serviço de ingestão de eventos focado em desafios de sistemas distribuídos: <strong>Idempotência</strong>, <strong>Ordenação Estrita</strong> e <strong>Auditoria</strong>.
-        Implementa controle de concorrência por entidade (In-memory Mutex) para garantir o sequenciamento correto de eventos assíncronos.
+        Motor transacional financeiro de alta integridade que implementa <strong>Double-Entry Ledger</strong> (Partidas Dobradas).
+        Previne <strong>Race Conditions</strong> (Gasto Duplo) e Deadlocks utilizando estratégias de <strong>Pessimistic Locking</strong> e garantias <strong>ACID</strong>.
       </p>
       <p>
         <strong>Tech Stack:</strong>&nbsp;
-        <code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>Prisma</code> <code>Zod</code> <code>Singleton Pattern</code>
+        <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Kysely</code> <code>Design Patterns</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="60%">
+      <h3>📉 <a href="https://github.com/GersonResplandes/anti-oom-processor">Anti-OOM Processor</a></h3>
+      <p>
+        Motor de ETL ultra-eficiente capaz de processar <strong>arquivos CSV de múltiplos gigabytes</strong> sem estourar a memória (Heap OOM).
+        Utiliza <strong>Native Streams</strong> e mecanismos de <strong>Backpressure</strong> para lidar com grandes volumes de dados mantendo consumo de RAM constante e baixo.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong>&nbsp;
+        <code>Node.js Streams</code> <code>Pipeline API</code> <code>Performance Tuning</code> <code>Busboy</code> <code>ETL</code>
       </p>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🎓 Educação & Excelência Acadêmica
