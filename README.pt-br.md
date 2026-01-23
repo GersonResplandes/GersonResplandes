@@ -14,12 +14,22 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/gerson-resplandes-de-s%C3%A1-sousa-999bb33a3/">
+    <a href="https://www.linkedin.com/in/gerson-resplandes">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;
     <a href="mailto:maiorgerson@gmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+  <p>
+    <strong>CV / Currículo:</strong>&nbsp;
+    <a href="https://github.com/Me-Documentacao/resume.git">
+      <img src="https://img.shields.io/badge/PT--BR-PDF-238636?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV PT-BR">
+    </a>
+    &nbsp;
+    <a href="https://github.com/Me-Documentacao/resume.git">
+      <img src="https://img.shields.io/badge/EN-PDF-blue?style=flat-square&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV EN">
     </a>
   </p>
 </div>
@@ -61,15 +71,38 @@
 
 ---
 
+### 🎓 Educação & Excelência Acadêmica
+
+> *3.840 horas de formação técnica intensiva com foco nos fundamentos da Ciência da Computação.*
+
+**Técnico em Informática Integrado ao Ensino Médio**
+<br>
+**Instituto Federal do Maranhão (IFMA)** | *2023 - 2025*
+
+<p>
+  <img src="https://img.shields.io/badge/Carga_Horária-3.840h-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/IRA-8%2C30%20%2F%2010%2C0-success?style=flat-square">
+  <a href="https://suap.ifma.edu.br/comum/validar_assinatura/?codigo=1273031">
+    <img src="https://img.shields.io/badge/IFMA-Diploma%20Verificado-32CD32?style=flat-square&logo=googlescholar&logoColor=white" alt="Verificar Diploma">
+  </a>
+</p>
+
+* 🏆 **10,0** em Linguagem de Programação & Desenvolvimento Web
+* 🏅 **9,8** em Estrutura de Dados & Robótica Educacional
+* 🏅 **9,7** em Desenvolvimento Backend (Programação Internet II)
+* 🏅 **9,4** em Banco de Dados & Modelagem
+
+---
+
 ### 🧩 Filosofia de Engenharia
 
-> *"Código é lido muito mais vezes do que é escrito."*
+> *"Acredito que a programação é a única área que nos garante um verdadeiro 'superpoder': a habilidade de estender a capacidade humana além de seus limites físicos."*
 
-Minha abordagem à engenharia de software baseia-se em três pilares:
+Para mim, tecnologia é sobre transcender o que é humanamente possível — automatizar raciocínios complexos, memorizar dados infinitos e executar tarefas numa escala que nenhuma pessoa conseguiria sozinha. Para usar esse poder de forma eficaz, sigo três princípios:
 
-* **Confiabilidade em Primeiro Lugar:** Sistemas devem ser previsíveis. Priorizo **tipagem estrita**, **testes automatizados** e **tratamento gracioso de erros** para evitar surpresas em produção.
-* **Observabilidade:** Se você não pode medir, não pode melhorar. Projeto sistemas pensando em logs, rastreamento (tracing) e métricas desde o primeiro dia.
-* **Simplicidade:** Esforço-me para resolver problemas complexos distribuídos com arquiteturas simples e manuteníveis, evitando complexidade acidental.
+* **Confiabilidade:** Com grandes poderes vêm grandes responsabilidades. Priorizo **tipagem estrita**, **testes automatizados** e tratamento de erros robusto, porque um superpoder deve ser previsível, não caótico.
+* **Observabilidade:** Se você não pode medir, não pode controlar. Projeto sistemas com visibilidade profunda para entender como impactam o mundo real.
+* **Simplicidade:** Mágica não deve ser confusa. Esforço-me para resolver problemas complexos distribuídos com arquiteturas simples e manuteníveis.
 
 ---
 
@@ -102,5 +135,5 @@ Minha organização no GitHub reflete meu processo de melhoria contínua:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Inglês-Profissional-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Inglês-Básico-blue?style=flat-square" />
 </div>
