@@ -69,15 +69,38 @@
 
 ---
 
+### 🎓 Education & Academic Excellence
+
+> *3,840 hours of intensive technical training with a focus on Computer Science fundamentals.*
+
+**Technician in Informatics (Integrated High School)**
+<br>
+**Federal Institute of Maranhão (IFMA)** | *2023 - 2025*
+
+<p>
+  <img src="https://img.shields.io/badge/Workload-3%2C840h-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/GPA-8.30%20%2F%2010.0-success?style=flat-square">
+  <a href="https://suap.ifma.edu.br/comum/validar_assinatura/?codigo=1273031">
+    <img src="https://img.shields.io/badge/IFMA-Diploma%20Verified-32CD32?style=flat-square&logo=googlescholar&logoColor=white" alt="Verify Diploma">
+  </a>
+</p>
+
+* 🏆 **10.0** in Programming Languages & Web Development
+* 🏅 **9.8** in Data Structures & Educational Robotics
+* 🏅 **9.7** in Backend Development (Internet Programming II)
+* 🏅 **9.4** in Database Management & Modeling
+
+---
+
 ### 🧩 Engineering Philosophy
 
-> *"Code is read much more often than it is written."*
+> *"I believe programming is the only field that grants us a true 'superpower': the ability to extend human capacity beyond its physical limits."*
 
-My approach to software engineering is grounded in three pillars:
+To me, technology is about transcending what is humanly possible—automating complex reasoning, memorizing infinite data, and executing tasks at a scale no single person could achieve alone. To wield this power effectively, I follow three principles:
 
-* **Reliability First:** Systems must be predictable. I prioritize **strict typing**, **automated testing**, and **graceful error handling** to prevent runtime surprises.
-* **Observability:** If you can't measure it, you can't improve it. I design systems with logging, tracing, and metrics in mind from day one.
-* **Simplicity:** I strive to solve complex distributed problems with simple, maintainable architectures, avoiding accidental complexity.
+* **Reliability First:** With great power comes great responsibility. I prioritize **strict typing** and **testing** because a "superpower" must be predictable, not chaotic.
+* **Observability:** If you can't measure it, you can't control it. I design systems with deep visibility to understand how they impact the real world.
+* **Simplicity:** Magic shouldn't be confusing. I strive to solve complex problems with simple, maintainable architectures.
 
 ---
 
