@@ -133,5 +133,5 @@ My GitHub organization reflects my continuous improvement process:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/English-Professional_Working_Proficiency-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Básico_Working_Proficiency-blue?style=flat-square" />
 </div>
