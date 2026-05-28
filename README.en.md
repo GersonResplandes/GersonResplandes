@@ -35,37 +35,31 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/GersonResplandes/genetica-mendel">Mendelian Genetics Calculator</a></h3>
+      <h3><a href="https://github.com/GersonResplandes/payflow-saas-demo">PayFlow SaaS Demo</a></h3>
       <p>
-        Scientific calculator for Mendelian inheritance, rebuilt with TypeScript, strict typing,
-        domain logic isolated from the UI, automated tests, CI, Docker support, and PWA basics.
+        Demo mini SaaS with authentication, pricing plans, Mercado Pago checkout, PostgreSQL,
+        Prisma, and subscription activation through webhooks.
       </p>
       <p>
-        <strong>Highlights:</strong> pure business logic, probability calculations, validation rules,
-        unit tests, and clear separation between core and presentation layers.
+        <strong>Highlights:</strong> server-side payment preference creation, signed webhook handling,
+        idempotency, payment consistency checks, and subscription state management.
       </p>
       <p>
-        <code>TypeScript</code> <code>Vite</code> <code>Jest</code> <code>Clean Architecture</code> <code>CI</code>
-      </p>
-      <p>
-        <a href="https://genetica-mendel.vercel.app">Live demo</a>
+        <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Mercado Pago</code>
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/GersonResplandes/template-backend">Backend Template</a></h3>
+      <h3><a href="https://github.com/GersonResplandes/tictactoe-realtime-arena">TicTacToe Realtime Arena</a></h3>
       <p>
-        Node.js and TypeScript backend foundation focused on project standards, environment validation,
-        structured logging, centralized error handling, linting, tests, and CI.
+        Realtime multiplayer tic-tac-toe arena with rooms, spectators, chat, and best-of-three matches,
+        powered by Socket.IO and a custom Node.js server.
       </p>
       <p>
-        <strong>Current goal:</strong> evolve this template into a practical starter for production-style
-        APIs with stronger examples, documentation, and test coverage.
+        <strong>Highlights:</strong> in-memory server state, server-side move validation, turn control,
+        automatic abandonment handling, and realtime flow without a database.
       </p>
       <p>
-        <code>Node.js</code> <code>TypeScript</code> <code>Express</code> <code>Zod</code> <code>Jest</code> <code>ESLint</code>
-      </p>
-      <p>
-        <a href="https://gersonresplandes.github.io/template-backend/">Documentation</a>
+        <code>Next.js</code> <code>TypeScript</code> <code>Socket.IO</code> <code>Node.js</code> <code>TailwindCSS</code>
       </p>
     </td>
   </tr>
@@ -79,6 +73,8 @@ I am currently improving my portfolio around backend engineering fundamentals:
 
 - REST API design with clear request/response contracts
 - Authentication, authorization, and secure password handling
+- Payment API integrations, webhooks, and idempotency
+- Realtime communication with WebSocket and server-side validation
 - Input validation with schema-based tools such as Zod
 - Database modeling with SQL and NoSQL databases
 - Automated tests for business rules and critical flows
@@ -95,20 +91,22 @@ I am currently improving my portfolio around backend engineering fundamentals:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </div>
 
 **Frontend for project demos**
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
 </div>
